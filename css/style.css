@@ -1,0 +1,55 @@
+/*#607d8b blue-grey
+#ba68c8 purple lighten-2
+#ab47bc purple lighten-1
+#9c27b0 purple*/
+.cc-navbar{
+  background-color: #607d8b;
+}
+#title{
+	font-size: 20pt;
+}
+#dropdown-font-color{
+  color: #ab47bc;
+}
+@media (min-width:993px){
+  #nav-control{
+    width: 80%;
+  }
+}
+.play-time{
+  text-align: center;
+  background: black;
+  height: 350px;
+}
+.parallax-container{
+	height: 500px;
+}
+#captionHeader{
+	opacity: 0;
+	color: #fff;
+}
+#cc-footer{
+  background-color: #607d8b;
+}
+.linkToMeIcons{
+    float: left;
+    width: 25%;
+    margin-right: 10px;
+    margin-top: 10px;
+    opacity: 0.5;
+    max-width: 50px;
+    min-width: 50px;
+ 
+ /*Transition*/
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+}
+.linkToMeIcons:hover{  
+    opacity: 1;
+
+    /*Glow*/
+    -webkit-box-shadow: 0px 0px 0px rgba(255,255,255,0.8);
+    -moz-box-shadow: 0px 0px 0px rgba(255,255,255,0.8);
+    box-shadow: 0px 0px 0px rgba(255,255,255,0.8);
+}
