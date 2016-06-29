@@ -32,20 +32,19 @@
   background-color: #607d8b;
 }
 .linkToMeIcons{
-    float: left;
     width: 25%;
     margin-right: 10px;
     margin-top: 10px;
     opacity: 0.5;
-    max-width: 50px;
-    min-width: 50px;
- 
+    max-width: 35px;
+    min-width: 35px;
+
  /*Transition*/
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
 }
-.linkToMeIcons:hover{  
+.linkToMeIcons:hover{
     opacity: 1;
 
     /*Glow*/
