@@ -1,8 +1,12 @@
 $(document).ready(function() {
 	$('#captionHeader').animate({
 		color: '#fff',
-		opacity: '1'}, 
+		opacity: '1'},
 		1000);
 	$('.parallax').parallax();
 	//fadein+slidedown?
+});
+
+$(document).ready(function(){
+	$('.materialboxed').materialbox();
 });
