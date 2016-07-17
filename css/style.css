@@ -16,6 +16,9 @@
     width: 80%;
   }
 }
+.headerItems{
+  display: block;
+}
 .play-time{
   text-align: center;
   background: black;
@@ -38,7 +41,7 @@
   width: 100%;
 }
 .mc-paragraph{
-  margin: 0px 0px 0px 40px;
+  margin: 40px 0px 0px 0px;
 }
 .project-title{
   margin-left: 10px;
