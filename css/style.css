@@ -20,6 +20,9 @@
 .headerItems{
   display: block;
 }
+#nav-table{
+  display: inline-table;
+}
 .play-time{
   text-align: center;
   background: black;
