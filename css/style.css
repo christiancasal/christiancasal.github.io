@@ -12,6 +12,7 @@ body {
   width:100%;
   border-bottom: #333 solid 1px;
 }
+
 #title{
 	font-size: 20pt;
 }
@@ -26,7 +27,7 @@ body {
 .headerItems{
   display: block;
 }
-#nav-table{
+.nav-table{
   display: inline-table;
 }
 .play-time{
@@ -37,10 +38,20 @@ body {
 .parallax-container{
 	height: 500px;
 }
-#captionHeader{
+#aboutHeader{
+  margin-left: 40px;
+}
+#projectHeader{
+  margin-right: 40px;
+}
+#contactHeader{
+  margin-right: 40px;
+}
+/*#captionHeader{
 	opacity: 0;
 	color: #ffffff;
-}
+}*/
+
 #cc-footer{
   background-color: #607d8b;
   margin-top: -6px;
