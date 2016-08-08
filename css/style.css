@@ -27,8 +27,8 @@ body {
 .headerItems{
   display: block;
 }
-.nav-table{
-  display: inline-table;
+#nav-table{
+  display: flex;
 }
 .play-time{
   text-align: center;
