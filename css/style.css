@@ -16,6 +16,10 @@ body {
 #title{
 	font-size: 20pt;
 }
+.title{
+  margin: 30px 0px 30px 0px;
+  text-align: center;
+}
 #dropdown-font-color{
   color: #ab47bc;
 }
