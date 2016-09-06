@@ -30,6 +30,7 @@ body {
 }
 .headerItems{
   display: block;
+  font-size: 2rem;
 }
 #nav-table{
   display: flex;
