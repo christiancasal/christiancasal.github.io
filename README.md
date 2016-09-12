@@ -1,3 +1,3 @@
 # christiancasal.github.io
 
-[My Portfolio](christiancasal.com)
+[My Portfolio](http://christiancasal.com)
