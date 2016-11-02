@@ -83,9 +83,15 @@ body {
 }
 #clash{
   padding-right: 40px;
+  padding-bottom: 20px
 }
 #nyt{
   padding-right: 40px;
+  padding-bottom: 20px
+}
+#liri{
+  padding-right: 40px;
+  padding-bottom: 20px;
 }
 .entry{
   padding:20px;

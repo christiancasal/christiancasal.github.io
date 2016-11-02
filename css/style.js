@@ -81,10 +81,16 @@ export default StyleSheet.create({
         "paddingLeft": 30
     },
     "clash": {
-        "paddingRight": 40
+        "paddingRight": 40,
+        "paddingBottom": 20
     },
     "nyt": {
-        "paddingRight": 40
+        "paddingRight": 40,
+        "paddingBottom": 20
+    },
+    "liri": {
+        "paddingRight": 40,
+        "paddingBottom": 20
     },
     "entry": {
         "paddingTop": 20,
