@@ -73,13 +73,31 @@ body {
 .liri-imgs{
   width: 100%;
 }
-
+.video-fit{
+  margin-left: 10px;
+  margin-right: 10px;
+}
 .mc-paragraph{
-  margin: 40px 0px 0px 0px;
+  margin: 20px 0px 0px 0px;
   padding: 0px 30px 0 30px;
 }
+#clash{
+  padding-right: 40px;
+  padding-bottom: 20px
+}
+#nyt{
+  padding-right: 40px;
+  padding-bottom: 20px
+}
+#liri{
+  padding-right: 40px;
+  padding-bottom: 20px;
+}
+.entry{
+  padding:20px;
+}
 .project-title{
-  margin-left: 10px;
+  font-size: 24px;
 }
 .project-link{
   margin-left: 10px;
@@ -87,6 +105,9 @@ body {
 .titleIcons{
   margin-right: 0px;
   margin-top: 0px;
+}
+.list-div{
+  padding-left: 30px;
 }
 .linkIcons{
     width: 25%;
